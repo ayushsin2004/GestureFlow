@@ -41,7 +41,6 @@ pip install -r requirements.txt
 
 '''
 open a.py file
-
 '''
 
 Contributing
