@@ -37,7 +37,6 @@ cd your-repo-name
 pip install -r requirements.txt
 ```
 
-- Run the Project
 
 - Run the Project:
 
