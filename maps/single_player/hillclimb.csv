@@ -1,0 +1,5 @@
+1,right arm,45,a,0,shoot
+1,left arm,135,b,0,aim up
+1,left arm,225,c,0,aim down
+1,right arm,-45,d,0,restart level
+1,jump,1,e,0,next level

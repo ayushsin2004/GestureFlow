@@ -1,0 +1,7 @@
+# https://poki.com/en/g/stunt-bike-extreme
+1,left arm,225,d,0,right
+1,right arm,-45,a,0,left
+1,jump,1,w,0,jump
+1,crossed arms,1,space,0,jump
+1,squat,1,s,0,crouch 
+1,left arm,180,space,0,right
