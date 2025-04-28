@@ -39,8 +39,11 @@ pip install -r requirements.txt
 
 - Run the Project
 
+- Run the Project:
 
-~ open a.py file
+```
+Open a.py File
+```
 
 
 Contributing
